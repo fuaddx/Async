@@ -1,0 +1,14 @@
+C:\Users\birinci novbe\Desktop\Nihad\accessmodifiers\kikkl\bin\Debug\net6.0\kikkl.exe
+C:\Users\birinci novbe\Desktop\Nihad\accessmodifiers\kikkl\bin\Debug\net6.0\kikkl.deps.json
+C:\Users\birinci novbe\Desktop\Nihad\accessmodifiers\kikkl\bin\Debug\net6.0\kikkl.runtimeconfig.json
+C:\Users\birinci novbe\Desktop\Nihad\accessmodifiers\kikkl\bin\Debug\net6.0\kikkl.dll
+C:\Users\birinci novbe\Desktop\Nihad\accessmodifiers\kikkl\bin\Debug\net6.0\kikkl.pdb
+C:\Users\birinci novbe\Desktop\Nihad\accessmodifiers\kikkl\obj\Debug\net6.0\kikkl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\birinci novbe\Desktop\Nihad\accessmodifiers\kikkl\obj\Debug\net6.0\kikkl.AssemblyInfoInputs.cache
+C:\Users\birinci novbe\Desktop\Nihad\accessmodifiers\kikkl\obj\Debug\net6.0\kikkl.AssemblyInfo.cs
+C:\Users\birinci novbe\Desktop\Nihad\accessmodifiers\kikkl\obj\Debug\net6.0\kikkl.csproj.CoreCompileInputs.cache
+C:\Users\birinci novbe\Desktop\Nihad\accessmodifiers\kikkl\obj\Debug\net6.0\kikkl.dll
+C:\Users\birinci novbe\Desktop\Nihad\accessmodifiers\kikkl\obj\Debug\net6.0\refint\kikkl.dll
+C:\Users\birinci novbe\Desktop\Nihad\accessmodifiers\kikkl\obj\Debug\net6.0\kikkl.pdb
+C:\Users\birinci novbe\Desktop\Nihad\accessmodifiers\kikkl\obj\Debug\net6.0\kikkl.genruntimeconfig.cache
+C:\Users\birinci novbe\Desktop\Nihad\accessmodifiers\kikkl\obj\Debug\net6.0\ref\kikkl.dll
